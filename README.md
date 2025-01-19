@@ -75,4 +75,10 @@ The **BMI Tracker App** provides a practical and easy-to-use solution for calcul
 
 #OUTPUT
 ![image](https://github.com/user-attachments/assets/b3b26b5b-51fb-48ce-bfa9-a80314a4499c)
+![image](https://github.com/user-attachments/assets/c7948220-cf4f-47ff-a74a-21f4043d4e58)
+![image](https://github.com/user-attachments/assets/28770fb2-06dd-4412-817e-d152c0c4fadc)
+![image](https://github.com/user-attachments/assets/f977ecdb-c4b7-41cf-8ea6-dacd9f8c0433)
+
+
+
 
