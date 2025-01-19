@@ -68,9 +68,6 @@ The **BMI Tracker App** is useful for a wide range of users:
 3. **Healthcare**: Medical professionals may use BMI as a quick tool for identifying potential health risks associated with weight.
 4. **Educational Tool**: The app can be used in educational settings to help students learn about BMI, nutrition, and the importance of maintaining a healthy weight.
 
-### Conclusion
-
-The **BMI Tracker App** provides a practical and easy-to-use solution for calculating and understanding Body Mass Index. With its simple interface, users can quickly determine their BMI, interpret the result, and receive tailored health recommendations. The app is highly applicable to personal health tracking, fitness management, and medical assessments. By using basic Python libraries like Tkinter, the app demonstrates how easy it is to build a useful health tool using Python programming, making it a valuable resource for anyone looking to gain insight into their weight and health.
 
 
 #OUTPUT
